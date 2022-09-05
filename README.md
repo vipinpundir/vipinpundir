@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vipinpundir
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Development
 - 🌱 I’m currently learning Programing with data Structure
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -- vipinpundir29@gmail.com
