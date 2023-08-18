@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vipin Pundir</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [https://vipinpundir.netlify.app/](https://vipinpundir.netlify.app/)
+- 👀 I'm passionate about **creating engaging and user-friendly web applications using React.js.**
+
+- 🌱 I’m currently learning **Data Structures and Algorithms using Python and continuously expanding my expertise in building dynamic and interactive web experiences with React.js.**
+
+- 👯 I’m looking to collaborate on **diverse projects that leverage the technologies mentioned above.**
 
 - 📫 How to reach me **vipinpundir29@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1CRGX99KMxNVtvz0n2aVMahnI-l9B1TPn](https://drive.google.com/drive/folders/1CRGX99KMxNVtvz0n2aVMahnI-l9B1TPn)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
